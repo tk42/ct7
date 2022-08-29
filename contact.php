@@ -3,7 +3,7 @@
 	if (isset($_POST['email'])) {
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
-		$email_to = "nsplat+domain@gmail";
+		$email_to = "nsplat+domain@gmail.com";
 		$email_subject = "My offer for ct7.com";
 
 
